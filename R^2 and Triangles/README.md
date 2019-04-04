@@ -4,6 +4,7 @@ Rohit wants to build chimney on top of his house, so he consulted his friend Rah
 
 Table: triangle
 |Field|Type|
+|---|---|
 |id|int|
 |side1|text|
 |side2|text|

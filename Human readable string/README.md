@@ -10,7 +10,7 @@ Table: users
 |---|---|
 |id|int|
 |firstName|text|
-|middleName	text|
+|middleName|text|
 |lastName|text|
 |location|text|
 

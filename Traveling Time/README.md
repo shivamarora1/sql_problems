@@ -10,6 +10,7 @@ Table: travel
 
 Field	Type
 |id|int|
+|---|---|
 |tripStart|date|
 |tripEnd|date|
 |active|int|
@@ -26,6 +27,7 @@ Explanation
 Sample travels Table
 
 |id|tripStart|tripEnd|active
+|---|---|---|---|
 |19|2016-06-15|2016-06-21|1
 |20|2016-06-14|2016-06-30|0
 |21|2016-06-14|2016-06-16|0
@@ -34,6 +36,7 @@ Sample travels Table
 Output
 
 |travelling_days|
+|-|
 |10|
 
 ## Solution

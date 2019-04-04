@@ -3,6 +3,7 @@
 Rohit wants to build chimney on top of his house, so he consulted his friend Rahul, who happens to be an architect for possible designs. Rahul suggested him to build a triangular-shaped chimney. He provided him with the following data:
 
 Table: triangle
+
 |Field|Type|
 |---|---|
 |id|int|

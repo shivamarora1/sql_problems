@@ -9,6 +9,7 @@ Schema
 Table: travel
 
 Field	Type
+
 |id|int|
 |---|---|
 |tripStart|date|
@@ -16,8 +17,9 @@ Field	Type
 |active|int|
 
 Note
+
 If tripStart is 2016-06-15 and tripEnd is 2016-06-17
-the total travel days would be considered as 2.
+the total travel days would be considered as 2
 
 -
 

@@ -25,6 +25,7 @@ Sample orders table
 |1|10268|2007-06-30|Delivered|3|
 |2|10269|2007-06-30|Shipped|1|
 |3|15477|2015-02-14|Shipped|3|
+
 Output
 
 |customerID|no_of_orders|

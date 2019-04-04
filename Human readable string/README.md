@@ -7,6 +7,7 @@ For an experiment, she is looking for a set of users whose middle name starts fr
 Table: users
 
 |Field|Type|
+|---|---|
 |id|int|
 |firstName|text|
 |middleName	text|
